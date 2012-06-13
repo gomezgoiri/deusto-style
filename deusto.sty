@@ -9,8 +9,10 @@
 % suppress navigation bar
 \beamertemplatenavigationsymbolsempty
 
-\setbeamertemplate{background canvas}{\includegraphics[width=\paperwidth]{\tplPath img/header_none.png}} % overriden when sb calls to setSubjectColor
+% overriden when sb calls to setSubjectColor
+\setbeamertemplate{background canvas}{\includegraphics[width=\paperwidth]{\tplPath img/header_none.png}}
 \setbeamertemplate{items}[ball] % or circle (without 3D effects)
+
 
 % FONTS
 
@@ -28,15 +30,46 @@
 \setbeamerfont{frametitle}{series=\bfseries}
 
 
-% COLORS
-\definecolor{bluecolour}{rgb}{0,0,0.4}
+% COLORS (from http://colorschemedesigner.com/previous/colorscheme2)
+\definecolor{deustocolor}{RGB}{44,75,155} % #2C4A9B
+\definecolor{colsch2}{RGB}{31,52,108} % #1F346C
+\definecolor{colsch3}{RGB}{209,222,255} % #D1DEFF
+\definecolor{colsch4}{RGB}{164,188,255} % #A4BCFF
+
+
 \usecolortheme{default}
-%\setbeamercolor{title}{bg=bluecolour, fg=black}
+%\setbeamercolor{title}{bg=deustocolor, fg=black}
 \setbeamercolor{block body}{fg=black}
 \setbeamercolor{structure}{fg=black}
-\setbeamercolor{item}{fg=bluecolour}%{fg=beamer@blendedblue}
+\setbeamercolor{item}{fg=deustocolor}%{fg=beamer@blendedblue}
 \setbeamercolor{title}{fg=black}
 \setbeamercolor{frametitle}{fg=white}
+
+
+% footer styling
+\setbeamercolor{section in footer}{fg=white,bg=colsch2}
+\setbeamercolor{subsection in footer}{fg=white,bg=colsch2}
+\setbeamercolor{pagenumber in footer}{fg=white,bg=colsch2}
+
+\defbeamertemplate*{footline}{deusto}
+{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=.33\paperwidth,ht=2.25ex,dp=1ex,center]{section in footer}%
+    \inserttitle
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.34\paperwidth,ht=2.25ex,dp=1ex,center]{subsection in footer}%
+    \insertsectionhead
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.34\paperwidth,ht=2.25ex,dp=1ex,center]{pagenumber in footer}%
+   \insertframenumber{} / \inserttotalframenumber\hspace*{2ex}
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+
+
+
+
 
 \AtBeginSection[]
 {\begin{frame}
