@@ -1,0 +1,87 @@
+\documentclass{beamer} % version para presentar (con pauses y así)
+%\documentclass[handout]{beamer} % version para imprimir (sin pauses)
+
+\def \tplPath {./}
+
+\usepackage[utf8x]{inputenc}
+\usepackage{\tplPath deusto}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage{alltt}
+%\usepackage{minted}
+
+
+
+\usepackage{url}
+\urldef{\maila}\path|aitor.gomez@deusto.es|
+
+\title{Sample slides}
+\subtitle{Sample slides of the University of Deusto}
+\subsubtitle{Really, these are sample slides from Deusto}
+\institute{DeustoTech - Deusto Institute of Technology, University of Deusto
+\url{http://www.morelab.deusto.es}}
+\date{June 13, 2012}
+
+\begin{document}
+  \setSubjectColor[green]
+  \owntitlepage
+
+  \begin{frame}{Outline}
+    \transwipe
+    \tableofcontents[hideallsubsections,pausesections]
+  \end{frame}
+
+\section{Introduction}
+  \subsection{How was this style born?}
+  \begin{frame}{OpenOffice Impress}
+    \begin{itemize}
+	\item Sucked.
+	\pause
+	\item Don't want to reinvent the wheel.
+    \end{itemize}
+  \end{frame}
+
+  \begin{frame}[allowframebreaks]{Now using allowframebreaks}
+    \begin{itemize}
+      \item Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      \item Praesent vitae erat sapien. Maecenas pharetra, est et molestie interdum.
+      \item Nunc massa molestie ligula, vel mattis orci tellus eu nibh.
+      \framebreak
+      \item Augue malesuada
+      \begin{enumerate}
+	  \item Nunc ut magna sit amet lectus lobortis auctor id ac arcu.
+	  \item Phasellus auctor, erat ac iaculis tempor, dui tortor ultrices odio, ac tempus libero nunc vel risus.
+	\end{enumerate}
+    \end{itemize}
+  \end{frame}
+
+  %\frame{
+  %  \fullscreenimage{height=\textheight}{img/5324860794_55d7005a59_b.jpg}
+  %}
+
+  \begin{frame}{Duis at purus vel dolor imperdiet aliquam}
+    \begin{itemize}
+      \item<1-2> Fusce viverra, arcu eu volutpat mollis, leo tellus sollicitudin felis.
+      \item<2-5> Ac vulputate tortor lectus nec lectus.
+      \begin{itemize}
+	\item<3>  Nulla dui tortor, pulvinar vitae aliquet id.
+      \end{itemize}
+      \item<4-5> Nulla ultricies porta neque, at dignissim libero rhoncus ac.
+      \begin{itemize}
+	\item<5-> Phasellus porttitor luctus velit, non vehicula arcu gravida nec.
+      \end{itemize}
+    \end{itemize}
+  \end{frame}
+
+\section*{Bibliografía}
+  \begin{frame}[allowframebreaks]{Bibliografía}
+    %\beamertemplatebookbibitems
+    \beamertemplatearticlebibitems
+    \bibliographystyle{alpha}
+    \bibliography{transpas}
+  \end{frame}
+
+\license{Mikel Emaldi Enfurecido (flickr) y Jon Etxebarria (flickr).}
+
+\end{document}
