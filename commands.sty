@@ -1,0 +1,135 @@
+% COMMANDS
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[absolute,overlay]{textpos}
+
+\newcommand{\fullscreenobjectat}[2]{
+ \begin{textblock*}{12.8cm}#1
+  #2
+ \end{textblock*}
+}
+
+\newcommand{\fullscreenimageat}[3]{
+ \fullscreenobjectat{#1}{
+  \includegraphics[#2]{#3}
+ }
+}
+
+\newcommand{\fullscreenslide}[1]{
+ \fullscreenobjectat{(0cm,0cm)}{#1}
+}
+
+\newcommand{\fullscreenimage}[2]{
+ \fullscreenslide{
+  \centering
+ \includegraphics[#1]{#2}
+ }
+}
+
+\setlength{\unitlength}{1cm}
+% arreglado, antes al ponerlo en blanco y en las siguientes se mantenía,
+% ¡porque las tablas aparecen debajo de eso y parece que no las está dibujando, cuando sí!
+\newcommand{\fullscreenfill}[1]{
+ \fullscreenslide{
+  \linethickness{12.8cm}
+  {
+    \color{#1}
+    \begin{picture}(12.8,9.6)
+    \put(6.4,0){\line(0,0){9.6}}
+    \end{picture}
+  }
+ }
+}
+
+\newcommand{\fullscreentextbox}[3][blue]{
+ \fullscreenobjectat{#2}{
+  \colorbox{#1}{\fcolorbox{black}{white}{#3}}
+ }
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\licenseen}[1]{
+  \begin{frame}{License}
+    \begin{center}
+      All rights of images are reserved by the
+      \textbf{original owners*}, the rest of the content is
+      licensed under a \textbf{Creative Commons by-sa 3.0} license.
+      \linebreak\linebreak
+      \includegraphics[width=100px]{\tplPath img/logocc.png}
+      \linebreak\linebreak\linebreak\linebreak\linebreak
+      \begin{textblock}{11.0}[0,0](3,10)
+	\scriptsize
+	\begin{flushleft}
+	  * #1
+        \end{flushleft}
+      \end{textblock}
+    \end{center}
+  \end{frame}
+}
+
+\newcommand{\licensees}[1]{
+  \begin{frame}{Licencia}
+    \begin{center}
+      Todas las imágenes son propiedad de sus\linebreak
+      \textbf{respectivos dueños*}, el resto del contenido\linebreak
+      está licenciado bajo Creative Commons by-sa 3.0.
+      \linebreak\linebreak
+      \includegraphics[width=100px]{\tplPath img/logocc.png}
+      \linebreak\linebreak\linebreak\linebreak\linebreak
+      \begin{textblock}{11.0}[0,0](3,10)
+	\scriptsize
+	\begin{flushleft}
+	  * #1
+        \end{flushleft}
+      \end{textblock}
+    \end{center}
+  \end{frame}
+}
+
+\newcommand{\licenseeu}[1]{
+  \begin{frame}{Lizentzia}
+    \begin{center}
+      Irudien guztien jabetza intelektuala
+      \textbf{bere egileena*} da, gainontzeko edukiak
+      \textbf{Creative Commons by-sa 3.0} lizentziapean daude.
+      \linebreak\linebreak
+      \includegraphics[width=100px]{\tplPath img/logocc.png}
+      \linebreak\linebreak\linebreak\linebreak\linebreak
+      \begin{textblock}{11.0}[0,0](3,10)
+	\scriptsize
+	\begin{flushleft}
+	  * #1                             
+        \end{flushleft}
+      \end{textblock}
+    \end{center}
+  \end{frame}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\setSubjectColor}[1][none]{
+  \setbeamertemplate{background canvas}{\includegraphics[width=\paperwidth]{\tplPath img/header_#1.png}}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 
+\newcommand{\owntitlepage}[1][\tplPath img/front-background.png]{
+{
+  \usebackgroundtemplate{\includegraphics
+    [width=\paperwidth]{#1}}
+
+  \begin{frame}
+    \titlepage
+    \begin{columns}
+      \begin{column}{0.2\textwidth}
+      \end{column}
+      \begin{column}{0.60\textwidth}
+	  \centering
+	  \includegraphics[width=70px]{\tplPath img/deusto_logo.png}
+      \end{column}
+      \begin{column}{0.2\textwidth}
+      \end{column}
+    \end{columns}
+  \end{frame}
+}
+}

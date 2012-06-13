@@ -1,0 +1,47 @@
+\usetheme{default}
+\useinnertheme[shadow=true]{rounded}
+
+%\SetupKeyvalOptions{family = mdiss,prefix = papermas@}
+%\DeclareStringOption[../tpl/]{masss}[../tpl/]
+%\DeclareOption{languages}{\PassOptionsToPackage{\CurrentOption}{babel}}
+%\DeclareOption*{\OptionNotUsed}
+%\PackageWarning{fred}{Unknown option2 "\papermas@masss"}%
+%\def \tplPath \papermas@masss
+
+\usepackage{\tplPath commands}
+
+\setbeamertemplate{background canvas}{\includegraphics[width=\paperwidth]{\tplPath img/header_none.png}} % overriden when sb calls to setSubjectColor
+\setbeamertemplate{items}[ball] % or circle (without 3D effects)
+
+% FONTS
+% Taken from http://www.tug.dk/FontCatalogue/allfonts.html
+\usepackage{helvet}
+%\usepackage[T1]{fontenc}
+%\usepackage{uncial}
+%\setbeamerfont{title}{size={\Huge},series={\bfseries},family={\unclfamily}}
+%\input baseTemplates/AnnSton.fd
+%\setbeamerfont{title}{size={\Huge},series=\bfseries,family={\usefont{U}{AnnSton}{xl}{n}}}
+\setbeamerfont{title}{size={\Huge},series={\bfseries}}
+\setbeamerfont{frametitle}{series=\bfseries}
+
+% COLORS
+\definecolor{bluecolour}{rgb}{0,0,0.4}
+\usecolortheme{default}
+%\setbeamercolor{title}{bg=bluecolour, fg=black}
+\setbeamercolor{block body}{fg=black}
+\setbeamercolor{structure}{fg=black}
+\setbeamercolor{item}{fg=bluecolour}%{fg=beamer@blendedblue}
+\setbeamercolor{title}{fg=black}
+\setbeamercolor{frametitle}{fg=white}
+
+\AtBeginSection[]
+{\begin{frame}
+  \frametitle{Aurkezpena}
+  \tableofcontents[
+    currentsection,
+    hideothersubsections,
+    hideothersubsubsections%,
+    %sectionstyle=show/shaded,
+    %subsectionstyle=show/hide
+  ]
+\end{frame}}
