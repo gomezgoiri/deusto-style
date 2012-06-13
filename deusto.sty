@@ -1,8 +1,8 @@
 \usetheme{default}
-\useinnertheme[shadow=true]{rounded}
+%\useinnertheme{inmargin}
+%\useinnertheme[shadow=true]{rounded}
 
 \usepackage{\tplPath commands}
-
 
 \setbeamersize{text margin left=2em,text margin right=2em}
 
@@ -11,7 +11,11 @@
 
 % overriden when sb calls to setSubjectColor
 \setbeamertemplate{background canvas}{\includegraphics[width=\paperwidth]{\tplPath img/header_none.png}}
-\setbeamertemplate{items}[ball] % or circle (without 3D effects)
+
+%\setbeamertemplate{itemize items}[ball]
+%\setbeamertemplate{enumerate items}[circle]
+%\setbeamertemplate{items}[square]
+
 
 
 % FONTS
@@ -36,8 +40,7 @@
 \definecolor{colsch3}{RGB}{209,222,255} % #D1DEFF
 \definecolor{colsch4}{RGB}{164,188,255} % #A4BCFF
 
-
-\usecolortheme{default}
+%\usecolortheme{default}
 %\setbeamercolor{title}{bg=deustocolor, fg=black}
 \setbeamercolor{block body}{fg=black}
 \setbeamercolor{structure}{fg=black}
@@ -66,19 +69,3 @@
   \end{beamercolorbox}}%
   \vskip0pt%
 }
-
-
-
-
-
-\AtBeginSection[]
-{\begin{frame}
-  \frametitle{Aurkezpena}
-  \tableofcontents[
-    currentsection,
-    hideothersubsections,
-    hideothersubsubsections%,
-    %sectionstyle=show/shaded,
-    %subsectionstyle=show/hide
-  ]
-\end{frame}}

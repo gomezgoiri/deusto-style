@@ -25,6 +25,20 @@
 \date{June 13, 2012}
 %\date{\today}
 
+
+\AtBeginSection[]
+{\begin{frame}
+  \frametitle{Outline}
+  \tableofcontents[
+    currentsection,
+    hideothersubsections,
+    hideothersubsubsections%,
+    %sectionstyle=show/shaded,
+    %subsectionstyle=show/hide
+  ]
+\end{frame}}
+
+
 \begin{document}
   \setSubjectColor[green]
   \owntitlepage
