@@ -20,1351 +20,1350 @@
    inkscape:export-xdpi="120.03619"
    inkscape:export-ydpi="120.03619">
   <defs
-     id="defs4"><linearGradient
-   id="linearGradient3984">
-  <stop
-     style="stop-color:#d1deff;stop-opacity:1;"
-     offset="0"
-     id="stop3986" />
-  <stop
-     style="stop-color:#a4bcff;stop-opacity:1;"
-     offset="1"
-     id="stop3988" />
-</linearGradient>
-<linearGradient
-   id="linearGradient3942">
-  <stop
-     style="stop-color:#1f346c;stop-opacity:1;"
-     offset="0"
-     id="stop3944" />
-  <stop
-     style="stop-color:#2c4a9b;stop-opacity:1;"
-     offset="1"
-     id="stop3946" />
-</linearGradient>
-<linearGradient
-   id="linearGradient3805">
-  <stop
-     style="stop-color:#fafa45;stop-opacity:1;"
-     offset="0"
-     id="stop3807" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:1;"
-     offset="1"
-     id="stop3809" />
-</linearGradient>
-<linearGradient
-   id="linearGradient3967">
-  <stop
-     style="stop-color:#ecc2ee;stop-opacity:1;"
-     offset="0"
-     id="stop3969" />
-  <stop
-     style="stop-color:#ecc2ee;stop-opacity:0;"
-     offset="1"
-     id="stop3971" />
-</linearGradient>
-<linearGradient
-   id="linearGradient3955">
-  <stop
-     style="stop-color:#8997a0;stop-opacity:1;"
-     offset="0"
-     id="stop3957" />
-  <stop
-     style="stop-color:#8a97a0;stop-opacity:0;"
-     offset="1"
-     id="stop3959" />
-</linearGradient>
-<linearGradient
-   id="linearGradient3943">
-  <stop
-     style="stop-color:#a09c89;stop-opacity:1;"
-     offset="0"
-     id="stop3945" />
-  <stop
-     style="stop-color:#a09c89;stop-opacity:0;"
-     offset="1"
-     id="stop3947" />
-</linearGradient>
-<linearGradient
-   id="linearGradient3832">
-  <stop
-     style="stop-color:#ae553f;stop-opacity:1;"
-     offset="0"
-     id="stop3834" />
-  <stop
-     style="stop-color:#ad553f;stop-opacity:0;"
-     offset="1"
-     id="stop3836" />
-</linearGradient>
-<linearGradient
-   id="linearGradient3772">
-  <stop
-     style="stop-color:#000000;stop-opacity:1;"
-     offset="0"
-     id="stop3774" />
-  <stop
-     style="stop-color:#000000;stop-opacity:0;"
-     offset="1"
-     id="stop3776" />
-</linearGradient>
-<linearGradient
-   id="linearGradient3763">
-  <stop
-     style="stop-color:#199200;stop-opacity:1;"
-     offset="0"
-     id="stop3765" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0;"
-     offset="1"
-     id="stop3767" />
-</linearGradient>
-<linearGradient
-   id="linearGradient3760">
-  <stop
-     style="stop-color:#1b1c3e;stop-opacity:1;"
-     offset="0"
-     id="stop3762" />
-  <stop
-     style="stop-color:#37376e;stop-opacity:1;"
-     offset="1"
-     id="stop3764" />
-</linearGradient>
-<clipPath
-   id="clipPath3034"
-   clipPathUnits="userSpaceOnUse">
-  <path
-     id="path3036"
-     d="m 0,0 3310,0 0,264 L 0,264 0,0 z"
-     inkscape:connector-curvature="0" />
-</clipPath>
-<clipPath
-   id="clipPath3024"
-   clipPathUnits="userSpaceOnUse">
-  <path
-     id="path3026"
-     d="m 0,0 3310,0 0,264 L 0,264 0,0 z"
-     inkscape:connector-curvature="0" />
-</clipPath>
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3760"
-   id="linearGradient3766"
-   x1="-3.3833658e-07"
-   y1="361.50504"
-   x2="1052.36"
-   y2="361.50504"
-   gradientUnits="userSpaceOnUse" />
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3763"
-   id="linearGradient3769"
-   x1="-1.0101526"
-   y1="85.123703"
-   x2="1056.6196"
-   y2="85.123703"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(0.99501746,0,0,0.3045998,1.0051194,359.28118)" />
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3763-0"
-   id="linearGradient3769-2"
-   x1="-1.0101526"
-   y1="85.123703"
-   x2="1056.6196"
-   y2="85.123703"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(0.99501746,0,0,0.3045998,1.0051194,359.28118)" />
-<linearGradient
-   id="linearGradient3763-0">
-  <stop
-     style="stop-color:#199200;stop-opacity:1;"
-     offset="0"
-     id="stop3765-2" />
-  <stop
-     style="stop-color:#199200;stop-opacity:0;"
-     offset="1"
-     id="stop3767-1" />
-</linearGradient>
-<linearGradient
-   y2="85.123703"
-   x2="1056.6196"
-   y1="85.123703"
-   x1="-1.0101526"
-   gradientTransform="matrix(0.99501746,0,0,0.3045998,1.0051189,54.63131)"
-   gradientUnits="userSpaceOnUse"
-   id="linearGradient3809-8"
-   xlink:href="#linearGradient3763-0-4"
-   inkscape:collect="always" />
-<linearGradient
-   id="linearGradient3763-0-4">
-  <stop
-     style="stop-color:#199200;stop-opacity:1;"
-     offset="0"
-     id="stop3765-2-3" />
-  <stop
-     style="stop-color:#199200;stop-opacity:0;"
-     offset="1"
-     id="stop3767-1-1" />
-</linearGradient>
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3942"
-   id="linearGradient3948"
-   x1="-3.3833658e-07"
-   y1="361.07388"
-   x2="1052.36"
-   y2="361.07388"
-   gradientUnits="userSpaceOnUse" />
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3942-4"
-   id="linearGradient3948-3"
-   x1="-3.3833658e-07"
-   y1="361.07388"
-   x2="1052.36"
-   y2="361.07388"
-   gradientUnits="userSpaceOnUse" />
-<linearGradient
-   id="linearGradient3942-4">
-  <stop
-     style="stop-color:#1f346c;stop-opacity:1;"
-     offset="0"
-     id="stop3944-0" />
-  <stop
-     style="stop-color:#2c4a9b;stop-opacity:1;"
-     offset="1"
-     id="stop3946-1" />
-</linearGradient>
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3984"
-   id="linearGradient3990"
-   x1="-3.3833658e-07"
-   y1="403.2099"
-   x2="1052.36"
-   y2="403.2099"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(1,0,0,0.02578756,0,407.77881)" />
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3301-2-5"
-   id="linearGradient3307-4-3"
-   x1="1849.498"
-   y1="1175.0056"
-   x2="1921.5383"
-   y2="1206.2761"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(-234.71047,-107.26233)" />
-<linearGradient
-   inkscape:collect="always"
-   id="linearGradient3301-2-5">
-  <stop
-     style="stop-color:#000000;stop-opacity:1;"
-     offset="0"
-     id="stop3303-2-6" />
-  <stop
-     style="stop-color:#000000;stop-opacity:0;"
-     offset="1"
-     id="stop3305-6-6" />
-</linearGradient>
-<filter
-   id="filter3059-4-7"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3061-1-6"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3063-2-1"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3301-2-5"
-   id="linearGradient3156"
-   x1="1849.498"
-   y1="1175.0056"
-   x2="1921.5383"
-   y2="1206.2761"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(-234.71047,-107.26233)" />
-<linearGradient
-   inkscape:collect="always"
-   id="linearGradient3272-8">
-  <stop
-     style="stop-color:#ffffff;stop-opacity:1;"
-     offset="0"
-     id="stop3274-9" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0;"
-     offset="1"
-     id="stop3276-2" />
-</linearGradient>
-<filter
-   id="filter3065-8-3"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3067-8-2"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3069-8-7"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<filter
-   id="filter3071-8-6"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3073-3-6"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3075-8-0"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   inkscape:collect="always"
-   id="linearGradient3258-3">
-  <stop
-     style="stop-color:#ffffff;stop-opacity:1;"
-     offset="0"
-     id="stop3260-3" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0;"
-     offset="1"
-     id="stop3262-8" />
-</linearGradient>
-<filter
-   id="filter3077-0-7"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3079-4-6"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3081-7-9"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<filter
-   id="filter3083-8-0"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3085-9-5"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3087-0-8"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   inkscape:collect="always"
-   id="linearGradient3248-8">
-  <stop
-     style="stop-color:#ffffff;stop-opacity:1;"
-     offset="0"
-     id="stop3250-7" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0;"
-     offset="1"
-     id="stop3252-9" />
-</linearGradient>
-<filter
-   id="filter3089-0-8"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3091-3-8"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3093-3-4"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   id="linearGradient3234-7-8">
-  <stop
-     style="stop-color:#ffffff;stop-opacity:1;"
-     offset="0"
-     id="stop3236-3-8" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0;"
-     offset="1"
-     id="stop3238-2-8" />
-</linearGradient>
-<filter
-   id="filter3095-6-3"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3097-5-1"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3099-2-5"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   inkscape:collect="always"
-   id="linearGradient3214-5">
-  <stop
-     style="stop-color:#ffffff;stop-opacity:1"
-     offset="0"
-     id="stop3216-8" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0"
-     offset="1"
-     id="stop3218-7" />
-</linearGradient>
-<filter
-   id="filter3101-9-8"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3103-6-1"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3105-0-2"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<filter
-   id="filter3107-1-3"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3109-0-6"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3111-4-1"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<filter
-   id="filter3113-7-9"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3115-0-5"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3117-8-7"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   id="linearGradient3240">
-  <stop
-     style="stop-color:#ffffff;stop-opacity:1;"
-     offset="0"
-     id="stop3242" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0;"
-     offset="1"
-     id="stop3244" />
-</linearGradient>
-<filter
-   id="filter3119-2-3"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3121-4-0"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3123-7-1"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   id="linearGradient3156-4-2">
-  <stop
-     style="stop-color:#ffffff;stop-opacity:1;"
-     offset="0"
-     id="stop3158-3-7" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0"
-     offset="1"
-     id="stop3160-1-8" />
-</linearGradient>
-<filter
-   id="filter3125-4-2"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3127-6-4"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3129-9-6"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3156-4-2"
-   id="linearGradient4427"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(-234.71047,-107.26233)"
-   x1="918.09521"
-   y1="0"
-   x2="1000"
-   y2="507.61908" />
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3234-7-8"
-   id="linearGradient4429"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(25.289529,-107.26233)"
-   x1="160"
-   y1="104.28571"
-   x2="459.04764"
-   y2="416.66666" />
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3214-5"
-   id="linearGradient4431"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(-234.71047,-107.26233)"
-   x1="315.2381"
-   y1="1129.8051"
-   x2="1920"
-   y2="828.85266" />
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3214-5"
-   id="linearGradient4433"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(0.7931034,0,0,0.8421432,162.53091,82.165781)"
-   x1="315.2381"
-   y1="1129.8051"
-   x2="1920"
-   y2="828.85266" />
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3214-5"
-   id="linearGradient4435"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(0.6321839,0,0,0.6737146,471.49643,284.28016)"
-   x1="315.2381"
-   y1="1129.8051"
-   x2="1920"
-   y2="828.85266" />
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3234-7-8"
-   id="linearGradient4437"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(-234.71047,-107.26233)"
-   x1="160"
-   y1="104.28571"
-   x2="459.04764"
-   y2="416.66666" />
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3248-8"
-   id="linearGradient4439"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(-234.71047,-107.26233)"
-   x1="615.2381"
-   y1="293.33334"
-   x2="897.14282"
-   y2="712.38092" />
-<radialGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3258-3"
-   id="radialGradient4441"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(1,0,0,0.882353,-234.71047,-47.262367)"
-   cx="182.06349"
-   cy="491.29102"
-   fx="182.06349"
-   fy="491.29102"
-   r="170" />
-<radialGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3258-3"
-   id="radialGradient4443"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(0.2197462,0.7381071,-2.5448999,0.7576573,2283.5923,-492.96137)"
-   cx="182.06349"
-   cy="491.29102"
-   fx="182.06349"
-   fy="491.29102"
-   r="170" />
-<radialGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3272-8"
-   id="radialGradient4445"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(1.3082479,0.6050943,-0.5327241,1.1517796,-426.74725,-572.69543)"
-   cx="750.66138"
-   cy="73.871254"
-   fx="750.66138"
-   fy="73.871254"
-   r="60.661373" />
-<radialGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3272-8"
-   id="radialGradient4447"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(1.3082479,0.6050943,-0.5327241,1.1517796,-604.3369,-581.72541)"
-   cx="750.66138"
-   cy="73.871254"
-   fx="750.66138"
-   fy="73.871254"
-   r="60.661373" />
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3301-2-5"
-   id="linearGradient4449"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(-234.71047,-107.26233)"
-   x1="1849.498"
-   y1="1175.0056"
-   x2="1921.5383"
-   y2="1206.2761" />
-
- <style
-   id="style5133"
-   type="text/css">
+     id="defs4">
+    <linearGradient
+       id="linearGradient3984">
+      <stop
+         style="stop-color:#d1deff;stop-opacity:1;"
+         offset="0"
+         id="stop3986" />
+      <stop
+         style="stop-color:#a4bcff;stop-opacity:1;"
+         offset="1"
+         id="stop3988" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3942">
+      <stop
+         style="stop-color:#1f346c;stop-opacity:1;"
+         offset="0"
+         id="stop3944" />
+      <stop
+         style="stop-color:#2c4a9b;stop-opacity:1;"
+         offset="1"
+         id="stop3946" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3805">
+      <stop
+         style="stop-color:#fafa45;stop-opacity:1;"
+         offset="0"
+         id="stop3807" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3809" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3967">
+      <stop
+         style="stop-color:#ecc2ee;stop-opacity:1;"
+         offset="0"
+         id="stop3969" />
+      <stop
+         style="stop-color:#ecc2ee;stop-opacity:0;"
+         offset="1"
+         id="stop3971" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3955">
+      <stop
+         style="stop-color:#8997a0;stop-opacity:1;"
+         offset="0"
+         id="stop3957" />
+      <stop
+         style="stop-color:#8a97a0;stop-opacity:0;"
+         offset="1"
+         id="stop3959" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3943">
+      <stop
+         style="stop-color:#a09c89;stop-opacity:1;"
+         offset="0"
+         id="stop3945" />
+      <stop
+         style="stop-color:#a09c89;stop-opacity:0;"
+         offset="1"
+         id="stop3947" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3832">
+      <stop
+         style="stop-color:#ae553f;stop-opacity:1;"
+         offset="0"
+         id="stop3834" />
+      <stop
+         style="stop-color:#ad553f;stop-opacity:0;"
+         offset="1"
+         id="stop3836" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3772">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3774" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3776" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3763">
+      <stop
+         style="stop-color:#199200;stop-opacity:1;"
+         offset="0"
+         id="stop3765" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3767" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3760">
+      <stop
+         style="stop-color:#1b1c3e;stop-opacity:1;"
+         offset="0"
+         id="stop3762" />
+      <stop
+         style="stop-color:#37376e;stop-opacity:1;"
+         offset="1"
+         id="stop3764" />
+    </linearGradient>
+    <clipPath
+       id="clipPath3034"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3036"
+         d="m 0,0 3310,0 0,264 L 0,264 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3024"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3026"
+         d="m 0,0 3310,0 0,264 L 0,264 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3760"
+       id="linearGradient3766"
+       x1="-3.3833658e-07"
+       y1="361.50504"
+       x2="1052.36"
+       y2="361.50504"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3763"
+       id="linearGradient3769"
+       x1="-1.0101526"
+       y1="85.123703"
+       x2="1056.6196"
+       y2="85.123703"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99501746,0,0,0.3045998,1.0051194,359.28118)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3763-0"
+       id="linearGradient3769-2"
+       x1="-1.0101526"
+       y1="85.123703"
+       x2="1056.6196"
+       y2="85.123703"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99501746,0,0,0.3045998,1.0051194,359.28118)" />
+    <linearGradient
+       id="linearGradient3763-0">
+      <stop
+         style="stop-color:#199200;stop-opacity:1;"
+         offset="0"
+         id="stop3765-2" />
+      <stop
+         style="stop-color:#199200;stop-opacity:0;"
+         offset="1"
+         id="stop3767-1" />
+    </linearGradient>
+    <linearGradient
+       y2="85.123703"
+       x2="1056.6196"
+       y1="85.123703"
+       x1="-1.0101526"
+       gradientTransform="matrix(0.99501746,0,0,0.3045998,1.0051189,54.63131)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3809-8"
+       xlink:href="#linearGradient3763-0-4"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3763-0-4">
+      <stop
+         style="stop-color:#199200;stop-opacity:1;"
+         offset="0"
+         id="stop3765-2-3" />
+      <stop
+         style="stop-color:#199200;stop-opacity:0;"
+         offset="1"
+         id="stop3767-1-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3942"
+       id="linearGradient3948"
+       x1="-3.3833658e-07"
+       y1="361.07388"
+       x2="1052.36"
+       y2="361.07388"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3942-4"
+       id="linearGradient3948-3"
+       x1="-3.3833658e-07"
+       y1="361.07388"
+       x2="1052.36"
+       y2="361.07388"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3942-4">
+      <stop
+         style="stop-color:#1f346c;stop-opacity:1;"
+         offset="0"
+         id="stop3944-0" />
+      <stop
+         style="stop-color:#2c4a9b;stop-opacity:1;"
+         offset="1"
+         id="stop3946-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3984"
+       id="linearGradient3990"
+       x1="-3.3833658e-07"
+       y1="403.2099"
+       x2="1052.36"
+       y2="403.2099"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.02578756,0,407.77881)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3301-2-5"
+       id="linearGradient3307-4-3"
+       x1="1849.498"
+       y1="1175.0056"
+       x2="1921.5383"
+       y2="1206.2761"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-234.71047,-107.26233)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3301-2-5">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3303-2-6" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3305-6-6" />
+    </linearGradient>
+    <filter
+       id="filter3059-4-7"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3061-1-6"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3063-2-1"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3301-2-5"
+       id="linearGradient3156"
+       x1="1849.498"
+       y1="1175.0056"
+       x2="1921.5383"
+       y2="1206.2761"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-234.71047,-107.26233)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3272-8">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3274-9" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3276-2" />
+    </linearGradient>
+    <filter
+       id="filter3065-8-3"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3067-8-2"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3069-8-7"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       id="filter3071-8-6"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3073-3-6"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3075-8-0"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3258-3">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3260-3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3262-8" />
+    </linearGradient>
+    <filter
+       id="filter3077-0-7"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3079-4-6"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3081-7-9"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       id="filter3083-8-0"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3085-9-5"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3087-0-8"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3248-8">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3250-7" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3252-9" />
+    </linearGradient>
+    <filter
+       id="filter3089-0-8"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3091-3-8"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3093-3-4"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       id="linearGradient3234-7-8">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3236-3-8" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3238-2-8" />
+    </linearGradient>
+    <filter
+       id="filter3095-6-3"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3097-5-1"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3099-2-5"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3214-5">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop3216-8" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop3218-7" />
+    </linearGradient>
+    <filter
+       id="filter3101-9-8"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3103-6-1"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3105-0-2"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       id="filter3107-1-3"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3109-0-6"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3111-4-1"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       id="filter3113-7-9"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3115-0-5"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3117-8-7"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       id="linearGradient3240">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3242" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3244" />
+    </linearGradient>
+    <filter
+       id="filter3119-2-3"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3121-4-0"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3123-7-1"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       id="linearGradient3156-4-2">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3158-3-7" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop3160-1-8" />
+    </linearGradient>
+    <filter
+       id="filter3125-4-2"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3127-6-4"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3129-9-6"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3156-4-2"
+       id="linearGradient4427"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-234.71047,-107.26233)"
+       x1="918.09521"
+       y1="0"
+       x2="1000"
+       y2="507.61908" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3234-7-8"
+       id="linearGradient4429"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(25.289529,-107.26233)"
+       x1="160"
+       y1="104.28571"
+       x2="459.04764"
+       y2="416.66666" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3214-5"
+       id="linearGradient4431"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-234.71047,-107.26233)"
+       x1="315.2381"
+       y1="1129.8051"
+       x2="1920"
+       y2="828.85266" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3214-5"
+       id="linearGradient4433"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.7931034,0,0,0.8421432,162.53091,82.165781)"
+       x1="315.2381"
+       y1="1129.8051"
+       x2="1920"
+       y2="828.85266" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3214-5"
+       id="linearGradient4435"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.6321839,0,0,0.6737146,471.49643,284.28016)"
+       x1="315.2381"
+       y1="1129.8051"
+       x2="1920"
+       y2="828.85266" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3234-7-8"
+       id="linearGradient4437"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-234.71047,-107.26233)"
+       x1="160"
+       y1="104.28571"
+       x2="459.04764"
+       y2="416.66666" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3248-8"
+       id="linearGradient4439"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-234.71047,-107.26233)"
+       x1="615.2381"
+       y1="293.33334"
+       x2="897.14282"
+       y2="712.38092" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3258-3"
+       id="radialGradient4441"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.882353,-234.71047,-47.262367)"
+       cx="182.06349"
+       cy="491.29102"
+       fx="182.06349"
+       fy="491.29102"
+       r="170" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3258-3"
+       id="radialGradient4443"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2197462,0.7381071,-2.5448999,0.7576573,2283.5923,-492.96137)"
+       cx="182.06349"
+       cy="491.29102"
+       fx="182.06349"
+       fy="491.29102"
+       r="170" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3272-8"
+       id="radialGradient4445"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3082479,0.6050943,-0.5327241,1.1517796,-426.74725,-572.69543)"
+       cx="750.66138"
+       cy="73.871254"
+       fx="750.66138"
+       fy="73.871254"
+       r="60.661373" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3272-8"
+       id="radialGradient4447"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3082479,0.6050943,-0.5327241,1.1517796,-604.3369,-581.72541)"
+       cx="750.66138"
+       cy="73.871254"
+       fx="750.66138"
+       fy="73.871254"
+       r="60.661373" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3301-2-5"
+       id="linearGradient4449"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-234.71047,-107.26233)"
+       x1="1849.498"
+       y1="1175.0056"
+       x2="1921.5383"
+       y2="1206.2761" />
+    <style
+       id="style5133"
+       type="text/css">
    
     .fil1 {fill:#1F1A17}
     .fil0 {fill:#0963AA}
    
   </style>
-
-  <linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3301-2-5-5"
-   id="linearGradient4449-0"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(-234.71047,-107.26233)"
-   x1="1849.498"
-   y1="1175.0056"
-   x2="1921.5383"
-   y2="1206.2761" />
-<linearGradient
-   inkscape:collect="always"
-   id="linearGradient3301-2-5-5">
-  <stop
-     style="stop-color:#000000;stop-opacity:1;"
-     offset="0"
-     id="stop3303-2-6-8" />
-  <stop
-     style="stop-color:#000000;stop-opacity:0;"
-     offset="1"
-     id="stop3305-6-6-5" />
-</linearGradient>
-<filter
-   id="filter3059-4-7-7"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3061-1-6-0"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3063-2-1-9"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3301-2-5-5"
-   id="linearGradient5443"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(-234.71047,-107.26233)"
-   x1="1849.498"
-   y1="1175.0056"
-   x2="1921.5383"
-   y2="1206.2761" />
-<radialGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3272-8-0"
-   id="radialGradient4447-3"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(1.3082479,0.6050943,-0.5327241,1.1517796,-604.3369,-581.72541)"
-   cx="750.66138"
-   cy="73.871254"
-   fx="750.66138"
-   fy="73.871254"
-   r="60.661373" />
-<linearGradient
-   inkscape:collect="always"
-   id="linearGradient3272-8-0">
-  <stop
-     style="stop-color:#ffffff;stop-opacity:1;"
-     offset="0"
-     id="stop3274-9-1" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0;"
-     offset="1"
-     id="stop3276-2-2" />
-</linearGradient>
-<filter
-   id="filter3065-8-3-9"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3067-8-2-6"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3069-8-7-5"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<radialGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3272-8-0"
-   id="radialGradient4445-9"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(1.3082479,0.6050943,-0.5327241,1.1517796,-426.74725,-572.69543)"
-   cx="750.66138"
-   cy="73.871254"
-   fx="750.66138"
-   fy="73.871254"
-   r="60.661373" />
-<filter
-   id="filter3071-8-6-8"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3073-3-6-8"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3075-8-0-8"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<radialGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3258-3-4"
-   id="radialGradient4443-1"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(0.2197462,0.7381071,-2.5448999,0.7576573,2283.5923,-492.96137)"
-   cx="182.06349"
-   cy="491.29102"
-   fx="182.06349"
-   fy="491.29102"
-   r="170" />
-<linearGradient
-   inkscape:collect="always"
-   id="linearGradient3258-3-4">
-  <stop
-     style="stop-color:#ffffff;stop-opacity:1;"
-     offset="0"
-     id="stop3260-3-9" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0;"
-     offset="1"
-     id="stop3262-8-4" />
-</linearGradient>
-<filter
-   id="filter3077-0-7-5"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3079-4-6-2"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3081-7-9-1"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<radialGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3258-3-4"
-   id="radialGradient4441-4"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(1,0,0,0.882353,-234.71047,-47.262367)"
-   cx="182.06349"
-   cy="491.29102"
-   fx="182.06349"
-   fy="491.29102"
-   r="170" />
-<filter
-   id="filter3083-8-0-7"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3085-9-5-9"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3087-0-8-8"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3248-8-3"
-   id="linearGradient4439-0"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(-234.71047,-107.26233)"
-   x1="615.2381"
-   y1="293.33334"
-   x2="897.14282"
-   y2="712.38092" />
-<linearGradient
-   inkscape:collect="always"
-   id="linearGradient3248-8-3">
-  <stop
-     style="stop-color:#ffffff;stop-opacity:1;"
-     offset="0"
-     id="stop3250-7-0" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0;"
-     offset="1"
-     id="stop3252-9-6" />
-</linearGradient>
-<filter
-   id="filter3089-0-8-1"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3091-3-8-8"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3093-3-4-3"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3234-7-8-9"
-   id="linearGradient4437-3"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(-234.71047,-107.26233)"
-   x1="160"
-   y1="104.28571"
-   x2="459.04764"
-   y2="416.66666" />
-<linearGradient
-   id="linearGradient3234-7-8-9">
-  <stop
-     style="stop-color:#ffffff;stop-opacity:1;"
-     offset="0"
-     id="stop3236-3-8-7" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0;"
-     offset="1"
-     id="stop3238-2-8-4" />
-</linearGradient>
-<filter
-   id="filter3095-6-3-0"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3097-5-1-1"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3099-2-5-5"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<filter
-   id="filter3101-9-8-9"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3103-6-1-3"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3105-0-2-8"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<filter
-   id="filter3107-1-3-4"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3109-0-6-2"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3111-4-1-8"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<filter
-   id="filter3113-7-9-5"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3115-0-5-4"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3117-8-7-5"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3234-7-8-9"
-   id="linearGradient4429-6"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(25.289529,-107.26233)"
-   x1="160"
-   y1="104.28571"
-   x2="459.04764"
-   y2="416.66666" />
-<linearGradient
-   id="linearGradient5527">
-  <stop
-     style="stop-color:#ffffff;stop-opacity:1;"
-     offset="0"
-     id="stop5529" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0;"
-     offset="1"
-     id="stop5531" />
-</linearGradient>
-<filter
-   id="filter3119-2-3-2"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3121-4-0-5"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3123-7-1-0"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3156-4-2-1"
-   id="linearGradient4427-5"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(-234.71047,-107.26233)"
-   x1="918.09521"
-   y1="0"
-   x2="1000"
-   y2="507.61908" />
-<linearGradient
-   id="linearGradient3156-4-2-1">
-  <stop
-     style="stop-color:#ffffff;stop-opacity:1;"
-     offset="0"
-     id="stop3158-3-7-3" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0"
-     offset="1"
-     id="stop3160-1-8-3" />
-</linearGradient>
-<filter
-   id="filter3125-4-2-5"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3127-6-4-7"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3129-9-6-2"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3214-5-9-8"
-   id="linearGradient4435-7-6"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(0.6321839,0,0,0.6737146,471.49643,284.28016)"
-   x1="315.2381"
-   y1="1129.8051"
-   x2="1920"
-   y2="828.85266" />
-<linearGradient
-   inkscape:collect="always"
-   id="linearGradient3214-5-9-8">
-  <stop
-     style="stop-color:#ffffff;stop-opacity:1"
-     offset="0"
-     id="stop3216-8-4-2" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0"
-     offset="1"
-     id="stop3218-7-7-2" />
-</linearGradient>
-<filter
-   id="filter3101-9-8-9-4"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3103-6-1-3-2"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3105-0-2-8-4"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3301-2-5-59"
-   id="linearGradient4449-6"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(-234.71047,-107.26233)"
-   x1="1849.498"
-   y1="1175.0056"
-   x2="1921.5383"
-   y2="1206.2761" />
-<linearGradient
-   inkscape:collect="always"
-   id="linearGradient3301-2-5-59">
-  <stop
-     style="stop-color:#000000;stop-opacity:1;"
-     offset="0"
-     id="stop3303-2-6-0" />
-  <stop
-     style="stop-color:#000000;stop-opacity:0;"
-     offset="1"
-     id="stop3305-6-6-8" />
-</linearGradient>
-<filter
-   id="filter3059-4-7-3"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3061-1-6-6"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3063-2-1-4"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3301-2-5-59"
-   id="linearGradient5827"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(-234.71047,-107.26233)"
-   x1="1849.498"
-   y1="1175.0056"
-   x2="1921.5383"
-   y2="1206.2761" />
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3214-5-6"
-   id="linearGradient4435-2"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(0.6321839,0,0,0.6737146,471.49643,284.28016)"
-   x1="315.2381"
-   y1="1129.8051"
-   x2="1920"
-   y2="828.85266" />
-<linearGradient
-   inkscape:collect="always"
-   id="linearGradient3214-5-6">
-  <stop
-     style="stop-color:#ffffff;stop-opacity:1"
-     offset="0"
-     id="stop3216-8-5" />
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0"
-     offset="1"
-     id="stop3218-7-1" />
-</linearGradient>
-<filter
-   id="filter3101-9-8-8"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3103-6-1-7"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3105-0-2-9"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3214-5-6"
-   id="linearGradient4433-5"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(0.7931034,0,0,0.8421432,162.53091,82.165781)"
-   x1="315.2381"
-   y1="1129.8051"
-   x2="1920"
-   y2="828.85266" />
-<filter
-   id="filter3107-1-3-45"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3109-0-6-1"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3111-4-1-2"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient3214-5-6"
-   id="linearGradient4431-7"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="translate(-234.71047,-107.26233)"
-   x1="315.2381"
-   y1="1129.8051"
-   x2="1920"
-   y2="828.85266" />
-<filter
-   id="filter3113-7-9-4"
-   inkscape:label="Invert"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   inkscape:menu="Color"
-   inkscape:menu-tooltip="Invert colors"
-   color-interpolation-filters="sRGB">
-  <feColorMatrix
-     id="feColorMatrix3115-0-5-8"
-     type="saturate"
-     values="1"
-     result="fbSourceGraphic" />
-  <feColorMatrix
-     id="feColorMatrix3117-8-7-2"
-     in="fbSourceGraphic"
-     values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-</filter>
-<linearGradient
-   y2="828.85266"
-   x2="1920"
-   y1="1129.8051"
-   x1="315.2381"
-   gradientTransform="translate(-234.71047,-107.26233)"
-   gradientUnits="userSpaceOnUse"
-   id="linearGradient5867"
-   xlink:href="#linearGradient3214-5-6"
-   inkscape:collect="always" />
-</defs>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3301-2-5-5"
+       id="linearGradient4449-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-234.71047,-107.26233)"
+       x1="1849.498"
+       y1="1175.0056"
+       x2="1921.5383"
+       y2="1206.2761" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3301-2-5-5">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3303-2-6-8" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3305-6-6-5" />
+    </linearGradient>
+    <filter
+       id="filter3059-4-7-7"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3061-1-6-0"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3063-2-1-9"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3301-2-5-5"
+       id="linearGradient5443"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-234.71047,-107.26233)"
+       x1="1849.498"
+       y1="1175.0056"
+       x2="1921.5383"
+       y2="1206.2761" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3272-8-0"
+       id="radialGradient4447-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3082479,0.6050943,-0.5327241,1.1517796,-604.3369,-581.72541)"
+       cx="750.66138"
+       cy="73.871254"
+       fx="750.66138"
+       fy="73.871254"
+       r="60.661373" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3272-8-0">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3274-9-1" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3276-2-2" />
+    </linearGradient>
+    <filter
+       id="filter3065-8-3-9"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3067-8-2-6"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3069-8-7-5"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3272-8-0"
+       id="radialGradient4445-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3082479,0.6050943,-0.5327241,1.1517796,-426.74725,-572.69543)"
+       cx="750.66138"
+       cy="73.871254"
+       fx="750.66138"
+       fy="73.871254"
+       r="60.661373" />
+    <filter
+       id="filter3071-8-6-8"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3073-3-6-8"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3075-8-0-8"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3258-3-4"
+       id="radialGradient4443-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2197462,0.7381071,-2.5448999,0.7576573,2283.5923,-492.96137)"
+       cx="182.06349"
+       cy="491.29102"
+       fx="182.06349"
+       fy="491.29102"
+       r="170" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3258-3-4">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3260-3-9" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3262-8-4" />
+    </linearGradient>
+    <filter
+       id="filter3077-0-7-5"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3079-4-6-2"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3081-7-9-1"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3258-3-4"
+       id="radialGradient4441-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.882353,-234.71047,-47.262367)"
+       cx="182.06349"
+       cy="491.29102"
+       fx="182.06349"
+       fy="491.29102"
+       r="170" />
+    <filter
+       id="filter3083-8-0-7"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3085-9-5-9"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3087-0-8-8"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3248-8-3"
+       id="linearGradient4439-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-234.71047,-107.26233)"
+       x1="615.2381"
+       y1="293.33334"
+       x2="897.14282"
+       y2="712.38092" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3248-8-3">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3250-7-0" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3252-9-6" />
+    </linearGradient>
+    <filter
+       id="filter3089-0-8-1"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3091-3-8-8"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3093-3-4-3"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3234-7-8-9"
+       id="linearGradient4437-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-234.71047,-107.26233)"
+       x1="160"
+       y1="104.28571"
+       x2="459.04764"
+       y2="416.66666" />
+    <linearGradient
+       id="linearGradient3234-7-8-9">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3236-3-8-7" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3238-2-8-4" />
+    </linearGradient>
+    <filter
+       id="filter3095-6-3-0"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3097-5-1-1"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3099-2-5-5"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       id="filter3101-9-8-9"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3103-6-1-3"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3105-0-2-8"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       id="filter3107-1-3-4"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3109-0-6-2"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3111-4-1-8"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       id="filter3113-7-9-5"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3115-0-5-4"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3117-8-7-5"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3234-7-8-9"
+       id="linearGradient4429-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(25.289529,-107.26233)"
+       x1="160"
+       y1="104.28571"
+       x2="459.04764"
+       y2="416.66666" />
+    <linearGradient
+       id="linearGradient5527">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5529" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop5531" />
+    </linearGradient>
+    <filter
+       id="filter3119-2-3-2"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3121-4-0-5"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3123-7-1-0"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3156-4-2-1"
+       id="linearGradient4427-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-234.71047,-107.26233)"
+       x1="918.09521"
+       y1="0"
+       x2="1000"
+       y2="507.61908" />
+    <linearGradient
+       id="linearGradient3156-4-2-1">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3158-3-7-3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop3160-1-8-3" />
+    </linearGradient>
+    <filter
+       id="filter3125-4-2-5"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3127-6-4-7"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3129-9-6-2"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3214-5-9-8"
+       id="linearGradient4435-7-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.6321839,0,0,0.6737146,471.49643,284.28016)"
+       x1="315.2381"
+       y1="1129.8051"
+       x2="1920"
+       y2="828.85266" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3214-5-9-8">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop3216-8-4-2" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop3218-7-7-2" />
+    </linearGradient>
+    <filter
+       id="filter3101-9-8-9-4"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3103-6-1-3-2"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3105-0-2-8-4"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3301-2-5-59"
+       id="linearGradient4449-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-234.71047,-107.26233)"
+       x1="1849.498"
+       y1="1175.0056"
+       x2="1921.5383"
+       y2="1206.2761" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3301-2-5-59">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3303-2-6-0" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3305-6-6-8" />
+    </linearGradient>
+    <filter
+       id="filter3059-4-7-3"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3061-1-6-6"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3063-2-1-4"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3301-2-5-59"
+       id="linearGradient5827"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-234.71047,-107.26233)"
+       x1="1849.498"
+       y1="1175.0056"
+       x2="1921.5383"
+       y2="1206.2761" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3214-5-6"
+       id="linearGradient4435-2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.6321839,0,0,0.6737146,471.49643,284.28016)"
+       x1="315.2381"
+       y1="1129.8051"
+       x2="1920"
+       y2="828.85266" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3214-5-6">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop3216-8-5" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop3218-7-1" />
+    </linearGradient>
+    <filter
+       id="filter3101-9-8-8"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3103-6-1-7"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3105-0-2-9"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3214-5-6"
+       id="linearGradient4433-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.7931034,0,0,0.8421432,162.53091,82.165781)"
+       x1="315.2381"
+       y1="1129.8051"
+       x2="1920"
+       y2="828.85266" />
+    <filter
+       id="filter3107-1-3-45"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3109-0-6-1"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3111-4-1-2"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3214-5-6"
+       id="linearGradient4431-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-234.71047,-107.26233)"
+       x1="315.2381"
+       y1="1129.8051"
+       x2="1920"
+       y2="828.85266" />
+    <filter
+       id="filter3113-7-9-4"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3115-0-5-8"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3117-8-7-2"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <linearGradient
+       y2="828.85266"
+       x2="1920"
+       y1="1129.8051"
+       x1="315.2381"
+       gradientTransform="translate(-234.71047,-107.26233)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5867"
+       xlink:href="#linearGradient3214-5-6"
+       inkscape:collect="always" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -1372,16 +1371,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="965.68144"
-     inkscape:cy="16.71383"
+     inkscape:zoom="1.28"
+     inkscape:cx="149.31965"
+     inkscape:cy="149.57446"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1218"
      inkscape:window-height="600"
-     inkscape:window-x="159"
-     inkscape:window-y="0"
+     inkscape:window-x="331"
+     inkscape:window-y="24"
      inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -1521,14 +1520,14 @@
        id="path3242-3"
        d="m -234.71047,572.73767 c 205.714279,-394.28571 893.52495,-567.6132188 700,-680 l 240,0 c -321.25943,204.769591 -859.99149,711.33797 -940,1060 l 0,-380 z"
        style="opacity:0.203;fill:url(#linearGradient4429-6);fill-opacity:1;stroke:none;display:inline;filter:url(#filter3119-2-3-2)"
-       transform="matrix(0.45973102,0,0,0.09100368,117.36031,6.8925719)" />
+       transform="matrix(0.45973102,0,0,0.09100368,105.36031,6.8925719)" />
     <path
        inkscape:connector-curvature="0"
        style="opacity:0.203;fill:url(#linearGradient4437-3);fill-opacity:1;stroke:none;display:inline;filter:url(#filter3095-6-3-0)"
        d="m -234.71047,372.73767 c 213.333329,-253.33333 801.14402,-432.375127 440,-480 l 240,0 c -16.49753,48.579112 -666.65817,450.38559 -680,620 l 0,-140 z"
        id="path3232-4"
        sodipodi:nodetypes="ccccc"
-       transform="matrix(0.45973102,0,0,0.09100368,117.36031,6.8925719)" />
+       transform="matrix(0.45973102,0,0,0.09100368,105.36031,6.8925719)" />
     <path
        inkscape:connector-curvature="0"
        style="opacity:0.053;fill:url(#linearGradient4439-0);fill-opacity:1;stroke:none;display:inline;filter:url(#filter3089-0-8-1)"
@@ -1542,7 +1541,7 @@
        d="m -194.71047,552.73767 c 100.671919,-119.69553 209.027009,-227.43946 340,-300 0,0 -61.984131,-0.39683 -180.000001,100 -116.746029,99.12698 -159.999999,200 -159.999999,200 z"
        id="path3256-4"
        sodipodi:nodetypes="cczc"
-       transform="matrix(0.45973102,0,0,0.09100368,117.36031,6.8925719)" />
+       transform="matrix(0.45973102,0,0,0.09100368,105.36031,6.8925719)" />
     <path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cczc"
@@ -1556,14 +1555,14 @@
        d="m 501.52704,-89.519825 c 0,0 16.26249,14.757496 3.76249,42.257496 -12.5,27.5 -50,70 -50,70 46.93535,-41.13443 88.77878,-83.686042 121.32275,-96.613757 -33.81241,4.056528 -44.99147,5.972383 -75.08524,-15.643739 z"
        id="path3270-8"
        sodipodi:nodetypes="czccc"
-       transform="matrix(0.45973102,0,0,0.09100368,117.36031,6.8925719)" />
+       transform="matrix(0.45973102,0,0,0.09100368,105.36031,6.8925719)" />
     <path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czccc"
        id="path3280-7"
        d="m 323.93739,-98.549807 c 0,0 6.86111,14.337524 3.76249,42.257496 -3.09377,27.876249 -54.89124,70.752502 -54.89124,70.752502 44.3016,-30.599454 93.67002,-84.438544 126.21399,-97.366259 -33.81241,4.056528 -44.99147,5.972383 -75.08524,-15.643739 z"
        style="opacity:0.203;fill:url(#radialGradient4447-3);fill-opacity:1;stroke:none;display:inline;filter:url(#filter3065-8-3-9)"
-       transform="matrix(0.45973102,0,0,0.09100368,117.36031,6.8925719)" />
+       transform="matrix(0.45973102,0,0,0.09100368,105.36031,6.8925719)" />
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-weight:bold;writing-mode:lr-tb;opacity:0.203;fill:url(#linearGradient4449-0);fill-opacity:1;stroke:none;display:inline;filter:url(#filter3059-4-7-7);font-family:Liberation Mono"
@@ -1603,7 +1602,7 @@
        x="1609.1021"
        y="1084.3314"
        id="text3297-97"
-       transform="matrix(-0.22763885,0.05228501,-0.02402382,-0.10459507,1149.9973,78.12492)"><tspan
+       transform="matrix(-0.22763885,0.05228501,-0.02402382,-0.10459507,1137.9973,78.12492)"><tspan
          sodipodi:role="line"
          id="tspan3299-19"
          x="1609.1021"
@@ -1634,23 +1633,18 @@
        transform="matrix(90.000003,0,0,90.000003,-800.83836,-600.49897)">
       <g
          id="Layer_x0020_1">
-  <metadata
-   id="CorelCorpID_0Corel-Layer" />
-
-  <g
-   id="_133358376">
-   
-   <path
-   d="m 19.861401,7.411187 0.05221,0 c 0.07925,0 0.139225,-0.064568 0.139225,-0.1435762 0,-0.08256 -0.05753,-0.1479297 -0.139225,-0.1479297 l -0.05221,0 0,0.2915059 z m -0.274102,0.039158 c 0,0.131433 0.12754,0.252349 0.26105,0.252349 l 0.0087,0 c 0.08586,0 0.151628,-0.047375 0.194799,-0.092354 0.04954,-0.051624 0.06625,-0.1199176 0.06625,-0.2209044 -0.03121,0.022861 -0.02748,0.039985 -0.07829,0.065292 -0.0286,0.01425 -0.07893,0.026074 -0.121856,0.026074 l -0.143576,0 0,-0.4307299 0.152281,0 c 0.03718,0 0.08823,0.013654 0.113151,0.026069 0.05081,0.025313 0.04707,0.04243 0.07829,0.065299 l 0,-0.1914393 -0.530798,0 0,0.5003443 z"
-   class="fil0"
-   id="_133232128"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff;fill-opacity:1" />
-
-   
-  </g>
-
- </g>
+        <metadata
+           id="CorelCorpID_0Corel-Layer" />
+        <g
+           id="_133358376">
+          <path
+             d="m 19.861401,7.411187 0.05221,0 c 0.07925,0 0.139225,-0.064568 0.139225,-0.1435762 0,-0.08256 -0.05753,-0.1479297 -0.139225,-0.1479297 l -0.05221,0 0,0.2915059 z m -0.274102,0.039158 c 0,0.131433 0.12754,0.252349 0.26105,0.252349 l 0.0087,0 c 0.08586,0 0.151628,-0.047375 0.194799,-0.092354 0.04954,-0.051624 0.06625,-0.1199176 0.06625,-0.2209044 -0.03121,0.022861 -0.02748,0.039985 -0.07829,0.065292 -0.0286,0.01425 -0.07893,0.026074 -0.121856,0.026074 l -0.143576,0 0,-0.4307299 0.152281,0 c 0.03718,0 0.08823,0.013654 0.113151,0.026069 0.05081,0.025313 0.04707,0.04243 0.07829,0.065299 l 0,-0.1914393 -0.530798,0 0,0.5003443 z"
+             class="fil0"
+             id="_133232128"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+      </g>
     </g>
   </g>
 </svg>
