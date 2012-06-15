@@ -18,6 +18,7 @@
 %\setbeamertemplate{enumerate items}[circle]
 %\setbeamertemplate{items}[square]
 
+\renewcommand{\emph}{\alert} % emphasis: bold and blue
 
 
 % FONTS
@@ -30,10 +31,12 @@
 %\input baseTemplates/AnnSton.fd
 %\setbeamerfont{title}{size={\Huge},series=\bfseries,family={\usefont{U}{AnnSton}{xl}{n}}}
 \setbeamerfont{title}{size={\LARGE},series={\bfseries}}
-%\setbeamerfont{author}{size={\Large}}
+\setbeamerfont{author}{size={\footnotesize}}
 %\setbeamerfont{institute}{series={\bfseries}}
 \setbeamerfont{date}{size={\footnotesize}}
 \setbeamerfont{frametitle}{series=\bfseries}
+\setbeamerfont{alerted text}{series=\bfseries}
+%\DeclareTextFontCommand{\emph}{\bfseries}
 
 
 % COLORS (from http://colorschemedesigner.com/previous/colorscheme2)
@@ -51,7 +54,7 @@
 \setbeamercolor{item}{fg=deustocolor}%{fg=beamer@blendedblue}
 \setbeamercolor{title}{fg=black}
 \setbeamercolor{frametitle}{fg=white}
-
+\setbeamercolor{alerted text}{fg=colsch2}
 
 % footer styling
 \setbeamercolor{section in footer}{fg=white,bg=colsch5}
