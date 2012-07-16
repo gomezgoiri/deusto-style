@@ -1,6 +1,12 @@
 % COMMANDS
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\unemph}[1] {
+  \textcolor{gray}{#1}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage[absolute,overlay]{textpos}
 
 \newcommand{\fullscreenobjectat}[2]{
@@ -54,8 +60,8 @@
   \begin{frame}
     \begin{center}
       All rights of images are reserved by the \linebreak
-      \textbf{original owners*}, the rest of the content is licensed \linebreak
-      under a \textbf{Creative Commons by-sa 3.0} license.
+      \emph{original owners}*, the rest of the content is licensed \linebreak
+      under a \emph{Creative Commons by-sa 3.0} license.
       \linebreak\linebreak
       \includegraphics[width=100px]{\tplPath img/logocc.png}
       \linebreak\linebreak\linebreak\linebreak\linebreak
@@ -75,8 +81,8 @@
   \begin{frame}{Licencia}
     \begin{center}
       Todas las imágenes son propiedad de sus\linebreak
-      \textbf{respectivos dueños*}, el resto del contenido\linebreak
-      está licenciado bajo Creative Commons by-sa 3.0.
+      \emph{respectivos dueños}*, el resto del contenido\linebreak
+      está licenciado bajo \emph{Creative Commons by-sa 3.0}.
       \linebreak\linebreak
       \includegraphics[width=100px]{\tplPath img/logocc.png}
       \linebreak\linebreak\linebreak\linebreak\linebreak
@@ -96,8 +102,8 @@
   \begin{frame}{Lizentzia}
     \begin{center}
       Irudien guztien jabetza intelektuala
-      \textbf{bere egileena*} da, gainontzeko edukiak
-      \textbf{Creative Commons by-sa 3.0} lizentziapean daude.
+      \emph{bere egileena}* da, gainontzeko edukiak
+      \emph{Creative Commons by-sa 3.0} lizentziapean daude.
       \linebreak\linebreak
       \includegraphics[width=100px]{\tplPath img/logocc.png}
       \linebreak\linebreak\linebreak\linebreak\linebreak
@@ -126,7 +132,22 @@
     [width=\paperwidth]{#1}}
   \begin{frame}
     \titlepage
-    \vspace{10em}
+    \vspace{12em}
+  \end{frame}
+}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\simpleframe}[1] {
+{
+  \setbeamertemplate{background canvas}[default] % resets the background
+  \setbeamertemplate{footline}[default]
+  \begin{frame}
+    \vspace{-5em}
+    \begin{center}
+     #1
+    \end{center}
   \end{frame}
 }
 }
