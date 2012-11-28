@@ -2,6 +2,15 @@
 %\useinnertheme{inmargin}
 %\useinnertheme[shadow=true]{rounded}
 
+\usepackage{url}
+\usepackage{hyperref}
+%\AtBeginDocument{
+%  \hypersetup{
+%    pdfborderstyle={/S/U/W 0.5},
+%    pdfborder={0 0 1},
+%  }
+%}
+
 \usepackage{\tplPath commands}
 
 \setbeamersize{text margin left=2em,text margin right=2em}
@@ -12,14 +21,13 @@
 % overriden when sb calls to setSubjectColor
 \setbeamertemplate{background canvas}{\includegraphics[width=\paperwidth]{\tplPath img/header.png}}
 % frame title styling
-\setbeamertemplate{frametitle}{\vspace{0.4cm} \color{white}  \insertframetitle}
+\setbeamertemplate{frametitle}{\vspace{0.4cm} \insertframetitle}
 
 %\setbeamertemplate{itemize items}[ball]
 %\setbeamertemplate{enumerate items}[circle]
 %\setbeamertemplate{items}[square]
 
 \renewcommand{\emph}{\alert} % emphasis: bold and blue
-
 
 % FONTS
 
@@ -37,6 +45,7 @@
 \setbeamerfont{frametitle}{series=\bfseries}
 \setbeamerfont{alerted text}{series=\bfseries}
 %\DeclareTextFontCommand{\emph}{\bfseries}
+%\setbeamerfont{url}{shape=\itshape}
 
 
 % COLORS (from http://colorschemedesigner.com/previous/colorscheme2)
@@ -45,6 +54,7 @@
 \definecolor{colsch3}{RGB}{100,119,172} % #6477AC
 \definecolor{colsch4}{RGB}{135,161,231} % #87A1E7
 \definecolor{colsch5}{RGB}{33,56,117} % #213875
+\definecolor{collink}{RGB}{80,95,138} % #505f8a
 
 
 %\usecolortheme{default}
@@ -55,6 +65,14 @@
 \setbeamercolor{title}{fg=black}
 \setbeamercolor{frametitle}{fg=white}
 \setbeamercolor{alerted text}{fg=colsch2}
+\hypersetup{
+  colorlinks=true,
+  urlcolor=collink,
+  linkcolor=, % internal links uncolored!
+  %linkbordercolor=,
+  %citecolor=,
+}
+
 
 % footer styling
 \setbeamercolor{section in footer}{fg=white,bg=colsch5}
