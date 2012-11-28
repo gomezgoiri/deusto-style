@@ -139,14 +139,19 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\newcommand{\simpleframe}[1] {
+
+% simpleframe: whithout a title, white background and text vertically aligned.
+ % 1st parameter: font size
+ % 2nd parameter: content of the frame
+\newcommand{\simpleframe}[2][\large] {
 {
   \setbeamertemplate{background canvas}[default] % resets the background
   \setbeamertemplate{footline}[default]
-  \begin{frame}
-    \vspace{-5em}
+  \begin{frame}[c]
     \begin{center}
-     #1
+	{ #1
+	  #2
+	}
     \end{center}
   \end{frame}
 }
