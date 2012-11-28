@@ -1,5 +1,5 @@
-\documentclass{beamer} % version para presentar (con pauses y así)
-%\documentclass[handout]{beamer} % version para imprimir (sin pauses)
+\documentclass{beamer} % presentation version (with pauses)
+%\documentclass[handout]{beamer} % printable version (without pauses)
 
 \def \tplPath {./}
 
@@ -27,27 +27,42 @@
 
 
 \AtBeginSection[]
-{\begin{frame}
-  \frametitle{Outline}
-  \tableofcontents[
-    currentsection,
-    hideothersubsections,
-    hideothersubsubsections%,
-    %sectionstyle=show/shaded,
-    %subsectionstyle=show/hide
-  ]
-\end{frame}}
+{
+  {
+    % include the following line if you prefer no footlines in the outline slides
+    \setbeamertemplate{footline}[default]
+    
+    \begin{frame}
+    \frametitle{Outline}
+    \tableofcontents[
+      currentsection,
+      hideothersubsections,
+      hideothersubsubsections%,
+      %sectionstyle=show/shaded,
+      %subsectionstyle=show/hide
+    ]
+    \end{frame}
+  }
+}
 
 
 \begin{document}
   \owntitlepage
+  
+  {
+    % include the following line if you prefer no footlines in the outline slides
+    \setbeamertemplate{footline}[default]
+    
+    \begin{frame}{Outline}  
+      \transwipe
+      \tableofcontents[hideallsubsections,pausesections]
+    \end{frame}
+  }
 
-  \begin{frame}{Outline}
-    \transwipe
-    \tableofcontents[hideallsubsections,pausesections]
-  \end{frame}
-
+  
+% I wanted to avoid this footline in the
 \setbeamertemplate{footline}[deusto]
+
 \section{Introduction}
 
   \subsection{How did this style born?}
@@ -77,6 +92,8 @@
     \end{itemize}
   \end{frame}
 
+  \section{Legendary section}
+  
   \simpleframe{
     \fullscreenimage{width=\textwidth}{img/5519462671_9b9cb03d01_z.jpg}
   }
