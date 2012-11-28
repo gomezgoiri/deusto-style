@@ -63,7 +63,6 @@
 \setbeamercolor{structure}{fg=black}
 \setbeamercolor{item}{fg=deustocolor}%{fg=beamer@blendedblue}
 \setbeamercolor{title}{fg=black}
-\setbeamercolor{frametitle}{fg=white}
 \setbeamercolor{alerted text}{fg=colsch2}
 \hypersetup{
   colorlinks=true,
@@ -78,17 +77,6 @@
 \setbeamercolor{section in footer}{fg=white,bg=colsch5}
 \setbeamercolor{subsection in footer}{fg=white,bg=deustocolor}
 \setbeamercolor{pagenumber in footer}{fg=white,bg=colsch2}
-
-\defbeamertemplate*{background canvas}{deusto}
-{
-  \setbeamercolor{frametitle}{fg=white}
-  \includegraphics[width=\paperwidth]{\tplPath img/header.png}
-}
-
-\defbeamertemplate*{background canvas}{deusto_plain}
-{
-  \includegraphics[width=\paperwidth]{\tplPath img/header_plain.png}
-}
 
 \defbeamertemplate*{footline}{deusto}
 {
@@ -106,6 +94,19 @@
   \vskip0pt%
 }
 
-% start using it right now
-\setbeamertemplate{background canvas}[deusto]
-\setbeamertemplate{footline}[deusto]
+  % start using it right now
+  \setbeamertemplate{footline}[deusto]
+
+
+  
+% 2 different header styles: corporative and plain
+
+\defbeamertemplate*{background canvas}{deusto_corporative}
+{
+  \includegraphics[width=\paperwidth]{\tplPath img/header.png}
+}
+
+\defbeamertemplate*{background canvas}{deusto_plain}
+{
+  \includegraphics[width=\paperwidth]{\tplPath img/header_plain.png}
+}
